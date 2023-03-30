@@ -1,19 +1,19 @@
 # Basic.DeclarationsandExpressions.Practice
 
-## Beginners Guide
+## _Beginners Guide_
 
--- This is a if statement practice of 25 questions. A list of commented out if statement and instructions.
+This is basic declaration and expression practice of 48 questions. A list of commented out instructions and code.
 
 ## Technology Stack
 
--- C#
--- Visual Studio
+-	C#
+-	Visual Studio
 
 ## Installation
 
--- Clone, unzip, and open the solution file in vscode
+    Clone, unzip, and open the solution file in vscode
 
-
-##  Running the application in vscode.
-
--- Uncomment the desired statement and run the application.
+Running the application in vscode.
+``` sh
+   Uncomment the desired question and run the application.
+```
